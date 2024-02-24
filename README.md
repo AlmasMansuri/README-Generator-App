@@ -25,4 +25,4 @@ A command-line application that accepts user input.
 
   # A walkthrough video that demonstrates the functionality of the README generator:
 
-  [![](Recording.mp4)]
+  ![App recording](Recording.mp4)
