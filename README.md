@@ -25,6 +25,4 @@ A command-line application that accepts user input.
 
   # A walkthrough video that demonstrates the functionality of the README generator:
 
-  <video width="320" height="240" controls>
-    <source src="Recording.mp4" type="video/mp4">
-  </video>
+  ![Readme video recording](Recording.gif)
